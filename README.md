@@ -1,8 +1,4 @@
-<h1>Welcome to the Web App - H.E.H | 
-```txt
-High-End Habits
-``` 
-|</h1>
+<h1>Welcome to the Web App - H.E.H | <code>High-End Habits</code> |</h1>
 
 <br>
 
